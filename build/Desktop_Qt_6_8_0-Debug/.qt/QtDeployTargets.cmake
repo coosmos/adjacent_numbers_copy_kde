@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appplayground3_FILE /home/ashutosh/playground3/build/Desktop_Qt_6_8_0-Debug/appplayground3)
+set(__QT_DEPLOY_TARGET_appplayground3_TYPE EXECUTABLE)

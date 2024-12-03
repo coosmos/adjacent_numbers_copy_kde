@@ -1,0 +1,6 @@
+module playground3
+typeinfo appplayground3.qmltypes
+prefer :/qt/qml/playground3/
+Main 1.0 Main.qml
+DraggableTile 1.0 DraggableTile.qml
+

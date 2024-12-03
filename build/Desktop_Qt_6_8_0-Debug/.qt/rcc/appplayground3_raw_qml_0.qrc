@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/qt/qml/playground3/">
+    <file alias="Main.qml">/home/ashutosh/playground3/Main.qml</file>
+    <file alias="DraggableTile.qml">/home/ashutosh/playground3/DraggableTile.qml</file>
+    <file alias="nav_keyboard.qml">/home/ashutosh/playground3/nav_keyboard.qml</file>
+    <file alias="nav_keyB_dragM.qml">/home/ashutosh/playground3/nav_keyB_dragM.qml</file>
+    <file alias="row_nav_child_navkeyB.qml">/home/ashutosh/playground3/row_nav_child_navkeyB.qml</file>
+    <file alias="adjacent_no_copy.qml">/home/ashutosh/playground3/adjacent_no_copy.qml</file>
+    <file alias="logic.js">/home/ashutosh/playground3/logic.js</file>
+  </qresource>
+</RCC>
+

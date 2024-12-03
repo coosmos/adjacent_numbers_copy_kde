@@ -1,0 +1,14 @@
+-rootPath
+/home/ashutosh/playground3
+-cmake-output
+-output-file
+/home/ashutosh/playground3/build/Desktop_Qt_6_8_0-Debug/.qt/qml_imports/appplayground3_build.cmake
+-importPath
+/home/ashutosh/playground3/build/Desktop_Qt_6_8_0-Debug/playground3
+-importPath
+/home/ashutosh/playground3/build/Desktop_Qt_6_8_0-Debug
+-importPath
+/home/ashutosh/Qt/6.8.0/gcc_64/qml
+-qrcFiles
+/home/ashutosh/playground3/build/Desktop_Qt_6_8_0-Debug/.qt/rcc/qmake_playground3.qrc
+/home/ashutosh/playground3/build/Desktop_Qt_6_8_0-Debug/.qt/rcc/appplayground3_raw_qml_0.qrc

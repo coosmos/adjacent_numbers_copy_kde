@@ -1,0 +1,11 @@
+--resource
+/home/ashutosh/playground3/build/Desktop_Qt_6_8_0-Debug/.qt/rcc/qmake_playground3.qrc
+--resource
+/home/ashutosh/playground3/build/Desktop_Qt_6_8_0-Debug/.qt/rcc/appplayground3_raw_qml_0.qrc
+/qt/qml/playground3/Main.qml
+/qt/qml/playground3/DraggableTile.qml
+/qt/qml/playground3/nav_keyboard.qml
+/qt/qml/playground3/nav_keyB_dragM.qml
+/qt/qml/playground3/row_nav_child_navkeyB.qml
+/qt/qml/playground3/adjacent_no_copy.qml
+/qt/qml/playground3/logic.js
